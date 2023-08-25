@@ -1,0 +1,12 @@
+C:\Programmer\WebApp\Rocky_Utility\bin\Debug\net7.0\Rocky_Utility.deps.json
+C:\Programmer\WebApp\Rocky_Utility\bin\Debug\net7.0\Rocky_Utility.dll
+C:\Programmer\WebApp\Rocky_Utility\bin\Debug\net7.0\Rocky_Utility.pdb
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.csproj.AssemblyReference.cache
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.AssemblyInfoInputs.cache
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.AssemblyInfo.cs
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.csproj.CoreCompileInputs.cache
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.dll
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\refint\Rocky_Utility.dll
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\Rocky_Utility.pdb
+C:\Programmer\WebApp\Rocky_Utility\obj\Debug\net7.0\ref\Rocky_Utility.dll

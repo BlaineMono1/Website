@@ -1,0 +1,17 @@
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.csproj.AssemblyReference.cache
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.AssemblyInfoInputs.cache
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.AssemblyInfo.cs
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.csproj.CoreCompileInputs.cache
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_DataAccess.deps.json
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_DataAccess.dll
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_DataAccess.pdb
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_Models.dll
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_Models.pdb
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.csproj.CopyComplete
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.dll
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\refint\Rocky_DataAccess.dll
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.pdb
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\ref\Rocky_DataAccess.dll
+C:\Programmer\WebApp\Rocky_DataAccess\bin\Debug\net6.0\Rocky_DataAccess.runtimeconfig.json
+C:\Programmer\WebApp\Rocky_DataAccess\obj\Debug\net6.0\Rocky_DataAccess.genruntimeconfig.cache
